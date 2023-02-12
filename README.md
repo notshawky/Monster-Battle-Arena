@@ -3,6 +3,4 @@
 <h2><a href=https://notshawky007.github.io/Monster-Battle-Arena/">Live Demo</a></h2>
 
 ### Tools:
-- Html
-- Css
 - Java Script
